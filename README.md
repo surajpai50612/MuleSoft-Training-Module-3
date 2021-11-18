@@ -1,4 +1,4 @@
 # MuleSoft-Training-Module-3
 
-Link of the public portal:
+Link of American Flights API Walkthrough:
 https://anypoint.mulesoft.com/exchange/portals/college-59/
