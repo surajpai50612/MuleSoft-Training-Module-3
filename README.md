@@ -9,4 +9,4 @@
 ##### Link training4-american-ws : https://drive.google.com/file/d/10H9yQMUEWW4WtJQm3UqVxKlHr5QiWl_q/view?usp=sharing
 
 ## Module 5
-##### American Flights API Walkthrough : 
+##### American Flights API Walkthrough : https://github.com/surajpai50612/MuleSoft-Training-Walkthroughs/blob/main/american-flights-api-walkthrough-1.0.2-raml.zip
